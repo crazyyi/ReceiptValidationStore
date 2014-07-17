@@ -4,7 +4,6 @@
 //
 //  For testing in sandbox mode
 //  Created by Yi Zeng on 5/7/14.
-//  Copyright (c) 2014 chinesepod.com. All rights reserved.
 //
 
 #import "SandboxReceiptValidationStore.h"
